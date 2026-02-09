@@ -6,9 +6,7 @@ Sanwal Ahmad Zafar and Wei Qin*
 
 School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
-*Corresponding author: Wei Qin
-
-Submitted to *Neuroimmunomodulation* — Special Issue: "Innate Neuroimmunology"
+*Corresponding author: Assoc. Prof. Wei Qin (wqin@sjtu.edu.cn)
 
 ---
 
@@ -87,12 +85,7 @@ innate/
 └── LICENSE
 ```
 
-## Citation
-
-If you use this code, please cite:
-
-> Zafar SA, Qin W. Thymus-Derived Myeloid Education Signatures Predict Microglial Tolerance Positioning and Are Modulated by Glucocorticoid Stress-Axis Activity. *Neuroimmunomodulation* (2026).
-
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
