@@ -4,7 +4,7 @@
 
 Sanwal Ahmad Zafar and Wei Qin*
 
-School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
+School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 *Corresponding author: Assoc. Prof. Wei Qin (wqin@sjtu.edu.cn)
 
@@ -88,4 +88,5 @@ innate/
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
 
