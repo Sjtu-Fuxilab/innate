@@ -27,7 +27,7 @@ We show that:
 | `NB1_Setup_DatasetRegistry.ipynb` | Quality control, dataset curation (19 datasets), environment logging, Supplementary Table S1 |
 | `NB2_Aim1_Thymus_NegCtrl_InnateMemory.ipynb` | Single-cell QC of three thymus cohorts, peripheral blood negative control, innate memory datasets |
 | `NB3_NMF_MES_Derivation.ipynb` | Consensus NMF (K=8), rank-sweep optimization, cross-cohort module matching, functional enrichment |
-| `NB4_Microglia_Transfer_Spatial_Stress.ipynb` | MES projection onto microglia, Visium spatial validation, GR calibration (AUC=0.95), LPS tolerance |
+| `NB4_Microglia_Transfer_Spatial_Stress.ipynb` | MES projection onto microglia, Visium spatial validation, GR calibration (AUC=0.947), LPS tolerance |
 | `NB5_Correlation_MetaAnalysis_Robustness.ipynb` | Donor-level correlations, DerSimonian-Laird meta-analysis, LODO sensitivity, HK robustness, GR-DE |
 | `NB6_BiologicalContext_Age_Pathology_Irisin.ipynb` | Age/neuropathology stratification, irisin-pathway scoring, GR x age interaction, threshold sensitivity |
 
@@ -88,5 +88,6 @@ innate/
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
 
 
